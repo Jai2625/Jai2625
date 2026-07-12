@@ -62,11 +62,12 @@ Python application that identifies colors from images.
 
 ---
 
-## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jai2625&show_icons=true)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jai2625&layout=compact)
+![Jai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jai2625&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jai2625&layout=compact&theme=github_dark)
 
 ---
 
