@@ -86,22 +86,21 @@
 
 | Project | Description | Highlights |
 |---|---|---|
-| 🖊️ **[Handwritten Digit Recognition](#)** | CNN & SVM models trained on the MNIST dataset | CNN: **99.11%** acc · SVM: **95.94%** acc · Confusion matrix & model evaluation |
-| 💬 **[Sentiment Analysis](#)** | TF-IDF + Logistic Regression on 50K IMDb movie reviews (scikit-learn) | Model serialization · professional documentation |
-| 💰 **[FinPath AI](#)** | AI-powered finance assistant that explains financial concepts & market info | Conversational finance guidance |
-| 🎨 **[Color Detection App](#)** | Python app that identifies and classifies colors from images | Image processing with OpenCV |
-| 🚢 **[Titanic EDA](#)** | Exploratory data analysis in Python/Jupyter | `ydata-profiling`, custom visualizations, feature engineering |
-| 🤖 **[NLP Chatbot](#)** *(in progress)* | Intent-based chatbot for internship submission | Stack: NLTK, scikit-learn, Flask |
-
-> Replace the `#` links above with your actual repo URLs.
+| 🖊️ **[Handwritten Digit Recognition](https://github.com/Jai2625/handwritten-digit-recognition)** | CNN & SVM models trained on the MNIST dataset | CNN: **99.11%** acc · SVM: **95.94%** acc · Confusion matrix & model evaluation |
+| 💬 **[Sentiment Analysis](https://github.com/Jai2625/IMDb-Sentiment-Analysis)** | TF-IDF + Logistic Regression on 50K IMDb movie reviews (scikit-learn) | Model serialization · professional documentation |
+| 💰 **[FinPath AI](https://github.com/Jai2625/FinPath-AI)** | AI-powered finance assistant that explains financial concepts & market info | Conversational finance guidance |
+| 🏦 **[LoanSense AI](https://github.com/Jai2625/LoanSense-AI)** | AI-powered assistant for loan & credit-related insights | *(add a one-line highlight here)* |
+| 🎨 **[Color Detection App](https://github.com/Jai2625/color-detection-project)** | Python app that identifies and classifies colors from images | Image processing with OpenCV |
+| 🚢 **[Titanic EDA](https://github.com/Jai2625/Titanic-EDA)** | Exploratory data analysis in Python/Jupyter | `ydata-profiling`, custom visualizations, feature engineering |
+| 🤖 **NLP Chatbot** *(in progress, repo TBD)* | Intent-based chatbot for internship submission | Stack: NLTK, scikit-learn, Flask |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jai2625&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jai2625&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jai2625&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jai2625&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
@@ -109,8 +108,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jai2625&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jai2625&theme=tokyo-night&hide_border=true&cache_seconds=86400" />
 </p>
+
+<!--
+If the images above show as broken, github-readme-stats.vercel.app is likely rate-limited or down.
+Fallback: swap the domain in the two github-readme-stats.vercel.app URLs above with a mirror, e.g.
+https://github-readme-stats-eight-gamma.vercel.app , keeping the same query parameters.
+-->
 
 ---
 
